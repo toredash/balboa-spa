@@ -2,6 +2,10 @@
 
 This project is a progressive web application (PWA) for controlling Balboa SPA hot tubs. It works as a web, Android, and iOS app.
 
+## Modifications from fork
+* Added Cloudflare Pages function to act as a proxy towards Balboa SPA API
+* Bump dependencies
+
 <img src="./ScreenShot.jpg" data-canonical-src="./ScreenShot.jpg" height="550" />
 
 ## Features
